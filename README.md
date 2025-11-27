@@ -21,7 +21,7 @@ The homepage features a hero section, services, featured properties, and a conta
 
 ## Installation
 
-### Backend
+### Installation
 
 1. Clone the repository:
 ```bash
